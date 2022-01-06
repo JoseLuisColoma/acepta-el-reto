@@ -11,7 +11,7 @@ public class P116HolaMundo {
         int n = Integer.parseInt(in.readLine());
 
         if (n >= 0 && n <= 5) {
-            for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
 
                 System.out.println("Hola mundo.");
             }
